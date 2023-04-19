@@ -1,6 +1,6 @@
-<div align=center>
-    <img src="./NjL.png" alt="Something will be placed here">
-</div>
+<!-- <div align=center>
+    <img src="./NjL.png" alt="Haven'">
+</div> -->
 <div align=center>
     <h1> Hi there 👋 </h1>
 </div>
