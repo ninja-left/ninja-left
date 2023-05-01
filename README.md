@@ -1,12 +1,13 @@
 <!-- <div align=center>
-    <img src="./NjL.png" alt="Haven'">
+    <img src="./NjL.png" alt="Under Construction">
 </div> -->
-<div align=center margin=10px>
+<div align=center>
     <h1> Hi there 👋 </h1>
     Welcome to my page.
 </div>
 
 <div align=center>
+    <br>
     <a href="https://t.me/NinjaLeft">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=black&style=for-the-badge"></a>
 </div>
