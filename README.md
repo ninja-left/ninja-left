@@ -3,7 +3,7 @@
 </div> -->
 <div align=center>
     <h1> Hi there 👋 </h1>
-    Welcome to my page.
+    Welcome to my page. <br>
     I usually create projects for fun but I also accept project requests.
     You can contact me using the following links.
 </div>
