@@ -5,13 +5,17 @@
     <h1> Hi there 👋 </h1>
     Welcome to my page. <br>
     I usually create projects for fun but I also accept project requests. <br>
-    You can contact me using the following links.
+    You can contact me using the following links:
 </div>
 
 <div align=center>
     <br>
     <a href="https://t.me/L1brty">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=black&style=for-the-badge"></a>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=black&style=for-the-badge">
+    </a>
+
+[![email](https://img.shields.io/badge/email-n1nj4r8%40dnmx.org-lightgrey)](mailto:n1nj4r8@dnmx.org)
+
 </div>
 <br>
 <div align=center>
