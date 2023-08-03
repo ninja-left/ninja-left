@@ -4,7 +4,7 @@
 <div align=center>
     <h1> Hi there 👋 </h1>
     Welcome to my page. <br>
-    I usually create projects for fun but I also accept project requests. <br>
+    I'm a student usually working on hobby projects and enjoy computer security and similar topics. <br>
     You can contact me using the following links:
 </div>
 
