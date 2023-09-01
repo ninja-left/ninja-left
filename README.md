@@ -36,8 +36,13 @@ If you want to to support me, you may send cypto to the following address(es):
 ### Monero <img width=16px src="https://github.com/ninja-left/ninja-left/assets/110196116/264d1b63-a94d-4706-b263-4fd4053388b5">
 You can scan this: <br>
 ![Monero QR](https://github.com/ninja-left/ninja-left/assets/110196116/d455264a-2d2a-4fd7-ae3f-4c99def06ccd) <br>
-or use the address below: <br>
-`85K9zLxmeqVQGERnD496yEBYe3Yy3y8cBdhAKLPQSafSH1ZeuzkUaqwXYrTJZjrhFyMX4JPiz8yo2PtPZxCeuXtqNXJShX8`
+or use the address below:
+
+```shell
+85K9zLxmeqVQGERnD496yEBYe3Yy3y8cBdhAKLPQSafSH1ZeuzkUaqwXYrTJZjrhFyMX4JPiz8yo2PtPZxCeuXtqNXJShX8
+```
 
 ## Extras
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-left&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-left&layout=donut&theme=dracula&bg_color=00000000)
+
+![Ninja's GH stats](https://github-readme-stats.vercel.app/api?username=ninja-left&show_icons=true&theme=dracula&bg_color=00000000)
