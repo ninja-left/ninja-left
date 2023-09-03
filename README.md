@@ -27,8 +27,6 @@ Btw ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo
 ## Contact
 You can contact me using
 <br>[![Email](https://img.shields.io/badge/Email-n1nj4r8%40dnmx.org-black?style=flat-square&logo=Protonmail&labelColor=white)](mailto:n1nj4r8@dnmx.org)
-<br>or<br>
-[![telegram](https://img.shields.io/badge/-telegram-black?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/Ninja_Left)
 <br>
 
 ## Donatation
