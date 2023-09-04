@@ -41,6 +41,6 @@ or use the address below:
 ```
 
 ## Extras
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-left&layout=donut&theme=dracula&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-left&layout=donut&theme=dracula)
 
-![Ninja's GH stats](https://github-readme-stats.vercel.app/api?username=ninja-left&show_icons=true&theme=dracula&bg_color=00000000)
+![Ninja's GH stats](https://github-readme-stats.vercel.app/api?username=ninja-left&show_icons=true&theme=dracula)
