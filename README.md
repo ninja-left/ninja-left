@@ -26,8 +26,10 @@ Btw ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo
 
 ## Contact
 If you wish to get in touch with me, please feel free to reach out via 
-[![Email](https://img.shields.io/badge/Email-n1nj4r8%40dnmx.org-black?style=flat-square&logo=Protonmail&labelColor=white)](mailto:n1nj4r8@dnmx.org)
+🔴[![Email](https://img.shields.io/badge/Email-n1nj4r8%40dnmx.org-black?style=flat-square&logo=Protonmail&labelColor=white)](mailto:n1nj4r8@dnmx.org)
 <br>
+
+🔴 Note: dnmx.org seems to be down. So use [![Email](https://img.shields.io/badge/Email-s1lntlwd%40proton.me-black?style=flat-square&logo=Protonmail&labelColor=white)](mailto:s1lntlwd@proton.me)
 
 ## Donatation
 If you want to to support me, you may send cypto to the following address(es):
