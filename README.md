@@ -26,16 +26,16 @@ Btw ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo
 
 ## Contact
 If you wish to get in touch with me, please feel free to reach out via 
-[![Email](https://img.shields.io/badge/Email-n1nj4r8%40dnmx.org-black?style=flat-square&logo=Protonmail&labelColor=white)](mailto:n1nj4r8@dnmx.org)
+[![Email](https://img.shields.io/badge/Email-n1nj4r8%40dnmx.org-black?style=flat-square&logo=Protonmail&labelColor=white)](mailto:ninja.notleft@proton.me)
 
 ## Donation
-If you want to to support me, you may send cypto to the following address(es):
+If you want to to support me, you may send XMR to the following address(es):
 ### Monero <img width=16px src="https://github.com/ninja-left/ninja-left/assets/110196116/264d1b63-a94d-4706-b263-4fd4053388b5">
 You can scan this: <br>
 ![Monero QR](https://github.com/ninja-left/ninja-left/assets/110196116/d455264a-2d2a-4fd7-ae3f-4c99def06ccd) <br>
 or use the address below:
 
-```shell
+```Text
 85K9zLxmeqVQGERnD496yEBYe3Yy3y8cBdhAKLPQSafSH1ZeuzkUaqwXYrTJZjrhFyMX4JPiz8yo2PtPZxCeuXtqNXJShX8
 ```
 
