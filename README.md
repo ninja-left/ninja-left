@@ -1,6 +1,6 @@
-<!-- <div align=center>
-    <img src="./images/banner.png" alt="Under Construction">
-</div> -->
+<div align=center>
+    <img src="./images/banner.svg" alt="A Banner with my avatar, listing my skills">
+</div>
 
 # Hi there :wave:
 I'm Ninja Left; someone who usually works on hobby projects.
