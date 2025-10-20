@@ -1,5 +1,5 @@
 <!-- <div align=center>
-    <img src="./imgs/NjL.png" alt="Under Construction">
+    <img src="./images/banner.png" alt="Under Construction">
 </div> -->
 
 # Hi there :wave:
